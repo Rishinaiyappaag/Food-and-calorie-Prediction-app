@@ -1,4 +1,4 @@
-# 🍽️ Meal Analyzer & Planner — README
+# 🍽️ Food-and-calorie-Prediction-app — README
 
 A Flutter app that captures meal photos stores results locally, and provides meal planning, history, analytics, and progress visualization.
 
