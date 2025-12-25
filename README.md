@@ -1,27 +1,12 @@
 # 🍽️ Meal Analyzer & Planner — README
 
-A Flutter app that captures meal photos, sends them to Gemini AI for analysis, stores results locally, and provides meal planning, history, analytics, and progress visualization.
+A Flutter app that captures meal photos stores results locally, and provides meal planning, history, analytics, and progress visualization.
 
 Includes secure API-key handling, offline support, and robust parsing/fallbacks for varied Gemini output.
 
----
-## 🎥 Demo Video
-
-[▶️ Watch Demo](https://raw.githubusercontent.com/Lopezzz56/meal_analyzer_planner/main/assets/demo.mp4)
-
-## 📚 Table of Contents
-
-- [Quick Start](#quick-start)
-- [Prerequisites](#prerequisites)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Architecture & Why We Chose It](#architecture--why-we-chose-it)
-- [How the AI Response Is Handled & Saved](#how-the-ai-response-is-handled--saved)
-- [Error Handling & Implemented Edge-Cases](#error-handling--implemented-edge-cases)
-
----
 
 
+#
 ## 🚀 Quick Start
 
 ```bash
@@ -111,15 +96,6 @@ flutter run
 
 ---
 
-### ✅ Benefits Summary
-
-| Feature                     | Benefit                                                  |
-|----------------------------|-----------------------------------------------------------|
-| Declarative routing        | Easier to reason about and test                           |
-| ShellRoute support         | Clean tab-based navigation with persistent UI             |
-| Deep linking               | Seamless integration with external URLs                   |
-| State preservation         | Each tab maintains its own navigation history             |
-| Simplified logic           | Reduces boilerplate and manual stack manipulation         |
 
 ## 🤖 How the AI Response Is Handled & Saved
 
